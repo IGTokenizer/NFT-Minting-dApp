@@ -1,6 +1,6 @@
 # NFT Minting dApp
 
-##OpenSea Url
+## OpenSea Url
 https://testnets.opensea.io/collection/first-website-igtokenizer
 
 ## Description
