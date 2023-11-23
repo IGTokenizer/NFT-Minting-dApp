@@ -1,5 +1,8 @@
 # NFT Minting dApp
 
+##OpenSea Url
+https://testnets.opensea.io/collection/first-website-igtokenizer
+
 ## Description
 
 This Is a basic NFT Minting web application that enables users to mint unique NFTs by connecting their Ethereum wallet. Built using React and integrating with Ethereum through Ethers.js, this app interacts with a smart contract to generate unique, blockchain-verified NFTs. This was created for education purposes following a buildspace.so tutorial and course.
